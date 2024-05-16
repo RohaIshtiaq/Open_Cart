@@ -1,1 +1,1 @@
-# Open_Cart
+OpenCart is a versatile e-commerce platform. Through rigorous testing, I've ensured its functionality and reliability. I developed a comprehensive testing strategy, including detailed test plans and scenarios, to guarantee optimal performance. This underscores my commitment to delivering seamless and efficient online shopping experiences.
